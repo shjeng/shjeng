@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">  
 </div> 
 <hr>
+<li>노션 : https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4</li>
 <li>수원 그린아카데미 (2023.05~2023.11)</li>
 
 
