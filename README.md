@@ -7,6 +7,7 @@
 <a href="https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sihwa-gray?style=social&logo=notion">
 </a>
+<hr>
 <li>수원 그린아카데미 (2023.05~2023.11)</li>
   
 <hr/>
