@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hello,%20This%20is%20Sihwa%20Git&fontColor=666162&fontSize=40)
 
 ### 공부가 취미인 백엔드 개발자
+<a href="https://www.instagram.com/jeongsihwa6?igsh=eHM0M2VoMzA4b3A0">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-gary?style=social&logo=instagram">
+</a>
 <a href="https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4">
-<img alt="Static Badge" src="https://img.shields.io/badge/Sihwa-gray?style=social&logo=notion">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Sihwa-gray?style=social&logo=notion">
 </a>
 <li>수원 그린아카데미 (2023.05~2023.11)</li>
   
