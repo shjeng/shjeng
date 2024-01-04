@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hello,%20This%20is%20Sihwa%20Git&fontColor=666162&fontSize=40)
 
 ### 공부가 취미인 백엔드 개발자
-<a href="https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fnotion-000000%3Fstyle%3Dflat%26logo%3Dnotion%26logoColor%3Dwhite%2Csiwha%2Cred)
-
+<a href="https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4">
+<img alt="Static Badge" src="https://img.shields.io/badge/Sihwa-gray?style=social&logo=notion">
+</a>
 <li>수원 그린아카데미 (2023.05~2023.11)</li>
-<a>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+  
 <hr/>
 
 ### 💪Skils
