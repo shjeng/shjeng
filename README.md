@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Sihwa%20Git%20&desc=Jeong%20Si%Hwa&color=FFBE98FF&fontColor=FFFFFFFF) <br>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&weight=700&size=24&duration=3000&pause=400&color=FFBE98&background=FF000000&center=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+;Back-End+Devleper+%EC%A0%95%EC%8B%9C%ED%99%94%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-안녕하세요! 주니어 개발자 정시화입니다.👋<br>
+👋<br>
 Java가 주력이며, Spring 기반으로 웹개발을 하고 있습니다.<br>
 현재는 공부 목적으로 개인 프로젝트와 팀 프로젝트를 진행하고 있어요.<br>
 좋은 개발자가 되기 위해 꾸준히 공부하고 있습니다!<br><br>
