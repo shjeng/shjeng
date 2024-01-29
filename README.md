@@ -1,8 +1,8 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Sihwa%20Git%20&desc=Jeong%20Si%Hwa&color=auto) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Sihwa%20Git%20&desc=Jeong%20Si%Hwa&color=FFBE98FF) <br>
 
-### 공부가 취미인 백엔드 개발자
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&weight=700&size=24&duration=3000&pause=400&color=FFBE98&background=FF000000&center=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+;Back-End+Devleper+%EC%A0%95%EC%8B%9C%ED%99%94%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 안녕하세요! 주니어 개발자 정시화입니다.👋<br>
 Java가 주력이며, Spring 기반으로 웹개발을 하고 있습니다.<br>
 현재는 공부 목적으로 개인 프로젝트와 팀 프로젝트를 진행하고 있어요.<br>
@@ -31,6 +31,7 @@ Java가 주력이며, Spring 기반으로 웹개발을 하고 있습니다.<br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">  
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>                                                                                                  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">  
