@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hello,%20This%20is%20Sihwa's%20Git&fontColor=666162&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Sihwa%20Git%20&desc=Jeong%20Si%Hwa&color=auto) <br>
 
 ### 공부가 취미인 백엔드 개발자
 <a href="https://www.instagram.com/jeongsihwa6?igsh=eHM0M2VoMzA4b3A0">
