@@ -10,7 +10,7 @@ Java가 주력이며, Spring 기반으로 웹개발을 하고 있습니다.<br>
 
 <hr>
 
-### SNS
+### SNS / Blog
 <a href="https://www.instagram.com/jeongsihwa6?igsh=eHM0M2VoMzA4b3A0">
   <img alt="Static Badge" src="https://img.shields.io/badge/-gary?style=social&logo=instagram">
 </a>
