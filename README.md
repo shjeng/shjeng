@@ -14,7 +14,7 @@ Java가 주력이며, Spring 기반으로 웹개발을 하고 있습니다.<br>
 <a href="https://www.instagram.com/jeongsihwa6?igsh=eHM0M2VoMzA4b3A0">
   <img alt="Static Badge" src="https://img.shields.io/badge/-gary?style=social&logo=instagram">
 </a>
-<a href="https://https://im-diary.tistory.com/">
+<a href="https://im-diary.tistory.com/">
   <img alt="Static Badge" src="https://img.shields.io/badge/-gray?style=social&logo=tistory">
 </a>
 <a href="https://iamsihwa.notion.site/Full-Stack-9823aa04c12b4d8e823ac550723d931e?pvs=4">
