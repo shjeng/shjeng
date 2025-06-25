@@ -6,7 +6,7 @@
 👋<br>
 
 📌 기술 스택
-- Backend: Java, Spring Boot, JPA, QueryDSL, MyBatis
+https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=html5&logoColor=#6DB33F
 
 - Database: MySQL, MariaDB, Oracle, Redis
 
